@@ -1,4 +1,4 @@
 # Abogabot
-Practica del primer modulo de fronted
+##Practica del primer modulo de fronted
 
-[Toma de Requerimientos de Información]
+[Toma de Requerimientos de Información](Requerimientos.pdf)
